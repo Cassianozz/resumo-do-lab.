@@ -1,2 +1,3 @@
 # resumo-do-lab.
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
+A computação em nuvem oferece recursos de TI (como servidores, armazenamento e software) sob demanda via internet, com pagamento apenas pelo uso. Ela proporciona escalabilidade, acesso remoto e redução de custos, eliminando a necessidade de infraestrutura física. Os principais modelos incluem IaaS (infraestrutura), PaaS (plataforma de desenvolvimento) e SaaS (aplicativos prontos). As nuvens podem ser públicas (compartilhadas, como AWS), privadas (exclusivas para uma organização) ou híbridas (combinação das duas). Seus benefícios incluem flexibilidade, alta disponibilidade e segurança gerenciada, sendo essencial para a transformação digital.
